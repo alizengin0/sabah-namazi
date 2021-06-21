@@ -1,2 +1,2 @@
 # sabah-namazi
-Sabah Namazı vakti için düzinelerce alarm kuran bir Google Assistant eklentisi.
+Sabah Namazı vakti için gRPC altyapısını kullanarak düzinelerce alarm kuran bir Google Assistant eklentisi.
